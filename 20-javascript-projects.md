@@ -1,4 +1,4 @@
-# 20 Javascript projects from easy to hard
+# 20 Javascript projects
 
 1. **Number Guessing Game (Easy)**
    - Create a program that picks a random number between 1 and 100. Let the user guess the number and provide hints ("Too high" or "Too low") until they guess it correctly.
